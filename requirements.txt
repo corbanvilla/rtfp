@@ -1,0 +1,3 @@
+pymysql
+openai
+boto3
